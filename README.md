@@ -134,7 +134,7 @@ I like turning complex AI and system concepts into **simple, usable products** ð
 
 ## ðŸ“Š GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishant212&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ishant212&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ishant212&theme=tokyonight)
 
