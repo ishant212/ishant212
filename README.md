@@ -142,7 +142,7 @@ I like turning complex AI and system concepts into **simple, usable products** ğ
 
 ## ğŸ† GitHub Trophies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishant212&layout=compact&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ishant212&theme=onedark&no-frame=true&margin-w=10&margin-h=10)
 
 ---
 
