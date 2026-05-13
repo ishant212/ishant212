@@ -100,7 +100,7 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Achieved ~90% accuracy on 15,000+ news samples with trust scoring and clickbait detection
 
 ### 🤖 Enhanced Sign Language Recognition System  
-🔗 [View Project](https://github.com/ishant212/sign-language)
+🔗 [View Project](https://github.com/ishant212/Enhanced-Sign-Language-Recognition-System)
 
 * Developed a real-time sign language recognition system using **TensorFlow, MediaPipe, and OpenCV**
 * Applied **21-point hand landmark extraction** and skeleton-based preprocessing for robust gesture recognition
@@ -124,6 +124,21 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Built an interactive **Streamlit dashboard** with confidence scoring and prediction visualization
 * Dockerized and deployed the application for public access and scalable usage
 
+### 🚗 Lane & Vehicle Detection with Distance Estimation  
+🔗 [View Project](https://github.com/ishant212/Lane-vehicle-detection)
+
+* Developed a real-time ADAS simulation using **OpenCV, YOLOv8, and PyTorch** for lane and vehicle detection
+* Implemented lane smoothing, ROI masking, and distance estimation for stable road awareness under varying conditions
+* Built an ADAS-style visualization with lane overlays, path guidance, and proximity-based vehicle alerts
+* Combined classical computer vision and deep learning into a unified real-time perception pipeline
+
+### 💬 Toxic Comment Classification System  
+🔗 [View Project](https://github.com/ishant212/Toxic-Comment-Classification)
+
+* Built a multi-label toxic comment classification system using **GloVe embeddings and GRU-based deep learning**
+* Trained on 383,000+ comments to detect 6 toxicity categories including toxic, obscene, threat, and identity hate
+* Developed a robust NLP preprocessing pipeline with text normalization, feature engineering, and sequence modeling
+* Achieved ~98–99% validation accuracy with real-time prediction support and deployment-ready model artifacts
 ---
 
 ## 🎓 Education
