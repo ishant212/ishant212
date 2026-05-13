@@ -99,8 +99,6 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Developed a **Flask REST API** supporting real-time text and URL-based news classification
 * Achieved ~90% accuracy on 15,000+ news samples with trust scoring and clickbait detection
 
----
-
 ### 🤖 Enhanced Sign Language Recognition System  
 🔗 [View Project](https://github.com/ishant212/sign-language)
 
@@ -109,7 +107,6 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Implemented **gesture-to-speech conversion**, word prediction, and accessibility-focused communication features
 * Trained CNN-based models for A–Z gesture classification with real-time inference support
 
----
 
 ### 🌐 AI-Powered Research Assistant Extension  
 🔗 [View Project](https://github.com/ishant212/Smart-Research-Assistant)
@@ -119,7 +116,6 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Implemented article summarization and contextual AI analysis for faster research workflows
 * Designed scalable REST-based communication between extension and backend services
 
----
 
 ### 📧 Email/SMS Spam Classifier  
 🔗 [View Project](https://github.com/ishant212/SMS-Spam-Prediction)
@@ -127,6 +123,7 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Developed an NLP-based spam detection system using **Multinomial Naive Bayes + TF-IDF**
 * Built an interactive **Streamlit dashboard** with confidence scoring and prediction visualization
 * Dockerized and deployed the application for public access and scalable usage
+
 ---
 
 ## 🎓 Education
