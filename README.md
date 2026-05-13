@@ -89,30 +89,44 @@ I like turning complex AI and system concepts into **simple, usable products** �
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 🧠 TruthLens — Explainable Fake News Detector  
+🔗 [View Project](https://github.com/ishant212/Truthlens-Fake-News-Detector-with-SHAP)
+
+* Built an explainable fake news detection system using **TF-IDF + ensemble ML models** (Random Forest, XGBoost, LightGBM)
+* Integrated **SHAP Explainable AI** for feature-level prediction interpretation
+* Developed a **Flask REST API** supporting real-time text and URL-based news classification
+* Achieved ~90% accuracy on 15,000+ news samples with trust scoring and clickbait detection
+
+---
+
+### 🤖 Enhanced Sign Language Recognition System  
+🔗 [View Project](https://github.com/ishant212/sign-language)
+
+* Developed a real-time sign language recognition system using **TensorFlow, MediaPipe, and OpenCV**
+* Applied **21-point hand landmark extraction** and skeleton-based preprocessing for robust gesture recognition
+* Implemented **gesture-to-speech conversion**, word prediction, and accessibility-focused communication features
+* Trained CNN-based models for A–Z gesture classification with real-time inference support
+
+---
+
+### 🌐 AI-Powered Research Assistant Extension  
+🔗 [View Project](https://github.com/ishant212/Smart-Research-Assistant)
+
+* Built a **Chrome Extension + Spring Boot backend** for AI-powered research and programming assistance
+* Integrated **Google Gemini API** for debugging, summarization, optimization, and test case generation
+* Implemented article summarization and contextual AI analysis for faster research workflows
+* Designed scalable REST-based communication between extension and backend services
+
+---
 
 ### 📧 Email/SMS Spam Classifier  
 🔗 [View Project](https://github.com/ishant212/SMS-Spam-Prediction)
 
-* Built using **Multinomial Naive Bayes + TF-IDF**
-* Interactive **Streamlit UI with confidence scoring**
-* Dockerized & deployed for public use
-* Achieved high accuracy in spam detection using NLP techniques
-
----
-
-### 🧠 AI Research Assistant (Chrome Extension)  
-🔗 [View Project](https://github.com/ishant212/Smart-Research-Assistant)
-
-* Backend with **Spring Boot + Gemini API**
-* Features:
-  * Code debugging
-  * Summarization
-  * Optimization
-  * Test case generation
-* Helps in research & programming productivity
-* Reduced research time by automating summarization & code analysis
-
+* Developed an NLP-based spam detection system using **Multinomial Naive Bayes + TF-IDF**
+* Built an interactive **Streamlit dashboard** with confidence scoring and prediction visualization
+* Dockerized and deployed the application for public access and scalable usage
 ---
 
 ## 🎓 Education
