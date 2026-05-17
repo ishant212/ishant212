@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hey, I’m **Ishant Shekhar**  
+👋 Hey, I’m **Ishant Shekhar Eeshu**  
 🎓 B.Tech AI/ML @ VIT Chennai | ML Developer | Backend Enthusiast  
 🚀 Passionate about building AI-powered systems & scalable backend solutions  
 
