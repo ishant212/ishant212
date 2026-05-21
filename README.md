@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hey, I’m **Ishant Shekhar Eeshu**  
+👋 Hey, I'm **Ishant Shekhar Eeshu**  
 🎓 B.Tech AI/ML @ VIT Chennai | ML Developer | Backend Enthusiast  
 🚀 Passionate about building AI-powered systems & scalable backend solutions  
 
@@ -10,11 +10,11 @@ I like working close to fundamentals—algorithms, data, and system design—and
 
 ---
 
-## 🔭 What I’m Currently Working On
+## 🔭 What I'm Currently Working On
 
 * 🤖 AI & ML projects (NLP, Generative AI, real-world ML apps)
 * 🌐 Cloud-based applications using **GCP & Streamlit**
-* ⚙️ Backend systems & scalable architectures
+* ⚙️ Backend systems & scalable architectures — currently building a **PayPal-inspired microservices backend** with Spring Boot
 * 🧠 Exploring LLMs and AI-powered tools
 
 ---
@@ -42,6 +42,7 @@ I like working close to fundamentals—algorithms, data, and system design—and
 * System Design & Backend Engineering
 * Cloud-native development (GCP, Docker)
 * LLM applications & prompt engineering
+* Microservices architecture (Spring Boot, JWT, JPA, Kafka)
 
 ---
 
@@ -49,7 +50,7 @@ I like working close to fundamentals—algorithms, data, and system design—and
 
 * Machine Learning & NLP
 * Python / C++ / Java
-* Backend development
+* Backend development (Spring Boot, REST APIs)
 * Cloud & deployment
 * Databases (SQL & NoSQL)
 
@@ -78,6 +79,9 @@ I like turning complex AI and system concepts into **simple, usable products** �
 ### 💻 Programming
 `Python` `C` `C++` `Java` `SQL`
 
+### 🔧 Backend & Frameworks
+`Spring Boot` `Spring Security` `Spring Data JPA` `JWT` `REST APIs` `Flask`
+
 ### ☁️ Cloud & Tools
 `Google Cloud Platform` `Docker` `Postman` `Git` `GitHub`
 
@@ -91,6 +95,17 @@ I like turning complex AI and system concepts into **simple, usable products** �
 
 ## 🚀 Featured Projects
 
+### 💳 PayPal Clone — Microservices Backend
+🔗 [View Project](https://github.com/ishant212/paypal-clone)
+
+* Building a production-inspired payment platform using **Spring Boot microservices architecture**
+* Implemented **JWT-based authentication & authorization** with BCrypt password hashing and stateless session management
+* Developed **Transaction Service** with JPA entity design, `@PrePersist` auto-timestamping, and `@Positive` validation
+* Architecture includes User Service, Transaction Service (in progress), with API Gateway, Wallet, and Notification services planned
+* Tech: `Java 17` `Spring Boot 3.x` `Spring Security` `JJWT` `H2` `Maven`
+
+---
+
 ### 🧠 TruthLens — Explainable Fake News Detector  
 🔗 [View Project](https://github.com/ishant212/Truthlens-Fake-News-Detector-with-SHAP)
 
@@ -98,6 +113,8 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Integrated **SHAP Explainable AI** for feature-level prediction interpretation
 * Developed a **Flask REST API** supporting real-time text and URL-based news classification
 * Achieved ~90% accuracy on 15,000+ news samples with trust scoring and clickbait detection
+
+---
 
 ### 🤖 Enhanced Sign Language Recognition System  
 🔗 [View Project](https://github.com/ishant212/Enhanced-Sign-Language-Recognition-System)
@@ -107,6 +124,7 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Implemented **gesture-to-speech conversion**, word prediction, and accessibility-focused communication features
 * Trained CNN-based models for A–Z gesture classification with real-time inference support
 
+---
 
 ### 🌐 AI-Powered Research Assistant Extension  
 🔗 [View Project](https://github.com/ishant212/Smart-Research-Assistant)
@@ -116,6 +134,33 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Implemented article summarization and contextual AI analysis for faster research workflows
 * Designed scalable REST-based communication between extension and backend services
 
+---
+
+### 📈 Bitcoin Sentiment-Driven Trading Analytics  
+🔗 [View Project](https://github.com/ishant212/Bitcoin-Sentiment-Driven-Trading-Analytics)
+
+* Built a sentiment-driven trading analytics pipeline combining **NLP sentiment analysis** with Bitcoin price data
+* Correlates real-time social/news sentiment signals with market movements for data-driven trade insights
+* Tech: `Python` `Jupyter Notebook`
+
+---
+
+### 💹 Binance Futures Testnet Bot  
+🔗 [View Project](https://github.com/ishant212/binance-futures-testnet-bot)
+
+* Developed an automated trading bot for **Binance Futures Testnet** with configurable strategy execution
+* Supports order placement, position management, and testnet simulation for safe strategy validation
+* Tech: `Python`
+
+---
+
+### 🏥 Lead Provider System  
+🔗 [View Project](https://github.com/ishant212/Lead-Provider-System)
+
+* Built a **TypeScript-based lead management system** for capturing, organizing, and routing leads
+* Tech: `TypeScript`
+
+---
 
 ### 📧 Email/SMS Spam Classifier  
 🔗 [View Project](https://github.com/ishant212/SMS-Spam-Prediction)
@@ -123,6 +168,8 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Developed an NLP-based spam detection system using **Multinomial Naive Bayes + TF-IDF**
 * Built an interactive **Streamlit dashboard** with confidence scoring and prediction visualization
 * Dockerized and deployed the application for public access and scalable usage
+
+---
 
 ### 🚗 Lane & Vehicle Detection with Distance Estimation  
 🔗 [View Project](https://github.com/ishant212/Lane-vehicle-detection)
@@ -132,6 +179,8 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Built an ADAS-style visualization with lane overlays, path guidance, and proximity-based vehicle alerts
 * Combined classical computer vision and deep learning into a unified real-time perception pipeline
 
+---
+
 ### 💬 Toxic Comment Classification System  
 🔗 [View Project](https://github.com/ishant212/Toxic-Comment-Classification)
 
@@ -139,6 +188,7 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Trained on 383,000+ comments to detect 6 toxicity categories including toxic, obscene, threat, and identity hate
 * Developed a robust NLP preprocessing pipeline with text normalization, feature engineering, and sequence modeling
 * Achieved ~98–99% validation accuracy with real-time prediction support and deployment-ready model artifacts
+
 ---
 
 ## 🎓 Education
@@ -174,10 +224,11 @@ I like turning complex AI and system concepts into **simple, usable products** �
 
 ## ✍️ Dev Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 <!---
 ## 🔝 Top Contributed Repo
 
 *(Auto-filled by GitHub stats tools)*
+-->
