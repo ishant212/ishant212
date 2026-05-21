@@ -74,19 +74,25 @@ I like turning complex AI and system concepts into **simple, usable products** �
 ## 💻 Tech Stack
 
 ### 🧠 AI / ML
-`TensorFlow` `Scikit-learn` `Generative AI` `Prompt Engineering`
+`TensorFlow` `Scikit-learn` `Generative AI` `Prompt Engineering` `XGBoost` `LightGBM` `SHAP`
 
 ### 💻 Programming
-`Python` `C` `C++` `Java` `SQL`
+`Python` `C` `C++` `Java` `TypeScript` `JavaScript` `SQL`
 
 ### 🔧 Backend & Frameworks
-`Spring Boot` `Spring Security` `Spring Data JPA` `JWT` `REST APIs` `Flask`
+`Spring Boot` `Spring Security` `Spring Data JPA` `JWT` `REST APIs` `Flask` `Node.js` `Express.js`
+
+### 📱 Mobile
+`React Native` `Expo SDK` `AsyncStorage` `React Navigation`
+
+### 🌐 Frontend
+`React.js` `Next.js` `TailwindCSS`
 
 ### ☁️ Cloud & Tools
 `Google Cloud Platform` `Docker` `Postman` `Git` `GitHub`
 
 ### 📊 Data & Visualization
-`Streamlit` `BigQuery` `Looker`
+`Streamlit` `BigQuery` `Looker` `Pandas` `NumPy` `Matplotlib`
 
 ### 🔗 Blockchain
 `Ethereum` `Solidity` `Hyperledger`
@@ -103,6 +109,17 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * Developed **Transaction Service** with JPA entity design, `@PrePersist` auto-timestamping, and `@Positive` validation
 * Architecture includes User Service, Transaction Service (in progress), with API Gateway, Wallet, and Notification services planned
 * Tech: `Java 17` `Spring Boot 3.x` `Spring Security` `JJWT` `H2` `Maven`
+
+---
+
+### 📱 NoteFlow — Offline-First Notes App
+🔗 [View Project](https://github.com/ishant212/noteflow)
+
+* Built a production-grade **offline-first notes app** using React Native and Expo SDK 54
+* Implemented local persistence with **AsyncStorage** — notes survive restarts with zero backend dependency
+* Features real-time search, category tagging (Personal/Work/Idea), and keyboard-aware editor layout
+* Handled safe area/notch support, floating action button UX, character counters, and timestamps
+* Tech: `React Native` `Expo SDK 54` `AsyncStorage` `React Navigation` `JavaScript`
 
 ---
 
