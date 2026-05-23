@@ -129,17 +129,10 @@ I like turning complex AI and system concepts into **simple, usable products** �
 
 ---
 
----
-
-<!--
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ishant212&theme=onedark)
--->
 
 ## ✍️ Dev Quote
 
-> "First, solve the problem. Then, write the code." – John Johnson
+![]("First, solve the problem. Then, write the code." – John Johnson)
 
 ---
 <!---
