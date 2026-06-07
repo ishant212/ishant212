@@ -1,5 +1,7 @@
 # 💫 About Me
 
+[Visit my portfolio]([https://github.com/ishant212](https://portfolio-zeta-gules-hjdncubrk0.vercel.app/))
+
 👋 Hey, I'm **Ishant Shekhar Eeshu**  
 🎓 B.Tech AI/ML @ VIT Chennai | ML Developer | Backend Enthusiast  
 🚀 Passionate about building AI-powered systems & scalable backend solutions  
@@ -28,14 +30,6 @@ I like working close to fundamentals—algorithms, data, and system design—and
 
 ---
 
-## 🤝 Looking for Help With
-
-* Advanced ML model optimization & evaluation
-* Distributed systems & scalability
-* Production-level AI deployment
-
----
-
 ## 🌱 Currently Learning
 
 * Deep Learning & Generative AI
@@ -46,25 +40,9 @@ I like working close to fundamentals—algorithms, data, and system design—and
 
 ---
 
-## 💬 Ask Me About
-
-* Machine Learning & NLP
-* Python / C++ / Java
-* Backend development (Spring Boot, REST APIs)
-* Cloud & deployment
-* Databases (SQL & NoSQL)
-
----
-
-## ⚡ Fun Fact
-
-I like turning complex AI and system concepts into **simple, usable products** 🚀
-
----
-
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ishant-shekhar-eeshu-1b629328b/
+* 💼 LinkedIn: https://www.linkedin.com/in/ishant-shekhar-eeshu/
 * 📧 Email: [ishantvats123@gmail.com](mailto:ishantvats123@gmail.com)
 * 💻 GitHub: [ishant212](https://github.com/ishant212)
 * 🧠 LeetCode: https://leetcode.com/u/Ishant_Shekhar/
@@ -104,15 +82,6 @@ I like turning complex AI and system concepts into **simple, usable products** �
 * 🎓 **Vellore Institute of Technology (VIT)**  
   B.Tech in AI/ML (2023–2027)  
   CGPA: 8.75  
-
----
-
-## 🏆 Certifications
-
-* Google — GenAI Apps with Gemini
-* Google — Prompt Design (Vertex AI)
-* Google — Cloud Vision API
-* IBM — Blockchain Essentials
 
 ---
 
