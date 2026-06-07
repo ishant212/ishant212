@@ -1,6 +1,6 @@
 # 💫 About Me
 
-[Visit my portfolio]([https://github.com/ishant212](https://portfolio-zeta-gules-hjdncubrk0.vercel.app/))
+[Visit my portfolio](https://portfolio-zeta-gules-hjdncubrk0.vercel.app/)
 
 👋 Hey, I'm **Ishant Shekhar Eeshu**  
 🎓 B.Tech AI/ML @ VIT Chennai | ML Developer | Backend Enthusiast  
