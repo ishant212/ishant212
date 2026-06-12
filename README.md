@@ -46,9 +46,8 @@ interests   :
   - Full-stack product engineering · React · Next.js · React Native
 philosophy  : "Solve the problem first, then write the code."
 open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
-portfolio   : https://portfolio-zeta-gules-hjdncubrk0.vercel.app/
 ```
-
+🌐 **Portfolio** → [portfolio-zeta-gules-hjdncubrk0.vercel.app](https://portfolio-zeta-gules-hjdncubrk0.vercel.app/)
 ---
 
 <div align="center">
