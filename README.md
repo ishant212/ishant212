@@ -208,18 +208,16 @@ open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
 
 <div align="center">
 
-## 🧊 3D Contribution Graph
+## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ishant212/ishant212/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ishant212/ishant212/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/ishant212/ishant212/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!--
-  ⚠️ This image is generated automatically by .github/workflows/profile-3d.yml
-  It will appear once the workflow has run at least once (see setup instructions).
--->
 
 </div>
 
