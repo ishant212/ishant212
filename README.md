@@ -47,7 +47,7 @@ interests   :
 philosophy  : "Solve the problem first, then write the code."
 open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
 ```
-🌐 [Click Here to View Portfolio](https://portfolio-zeta-gules-hjdncubrk0.vercel.app/)
+🌐 [Portfolio](https://portfolio-zeta-gules-hjdncubrk0.vercel.app/)
 ---
 
 <div align="center">
