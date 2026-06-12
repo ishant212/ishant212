@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/B.Tech%20AI%2FML-VIT%20Chennai-2563eb?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Backend%20%7C%20Full%20Stack-3b82f6?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/CGPA-8.75%2F10-60a5fa?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/CGPA-8.78%2F10-60a5fa?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Location-Chennai-93c5fd?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -38,7 +38,7 @@
 name        : Ishant Shekhar Eeshu
 role        : AI/ML Engineer & Full-Stack Developer
 institution : B.Tech Artificial Intelligence & Machine Learning — VIT Chennai (2023–2027)
-cgpa        : 8.75 / 10
+cgpa        : 8.78 / 10
 interests   :
   - Deep Learning · Generative AI · Prompt Engineering
   - Classical ML · XGBoost · LightGBM · Explainability (SHAP)
