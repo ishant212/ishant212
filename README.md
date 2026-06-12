@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=200&section=header&text=Ishant%20Shekhar%20Eeshu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&descColor=bfdbfe" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=B.Tech+AI%2FML+%E2%80%94+Final+Year;Building+AI-Powered+%26+Scalable+Systems;From+Algorithms+to+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=B.Tech+AI%2FML+%40+VIT+Chennai;Building+AI-Powered+%26+Scalable+Systems;From+Algorithms+to+Production)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/B.Tech%20AI%2FML-Final%20Year-2563eb?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/B.Tech%20AI%2FML-VIT%20Chennai-2563eb?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Backend%20%7C%20Full%20Stack-3b82f6?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/CGPA-8.75%2F10-60a5fa?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Location-VIT%20Chennai-93c5fd?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/Location-Chennai-93c5fd?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -46,6 +46,7 @@ interests   :
   - Full-stack product engineering · React · Next.js · React Native
 philosophy  : "Solve the problem first, then write the code."
 open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
+portfolio   : https://portfolio-zeta-gules-hjdncubrk0.vercel.app/
 ```
 
 ---
@@ -141,8 +142,7 @@ open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | React · React Three Fiber · Drei · Tailwind CSS |
-| **Highlights** | Custom 3D workstation model in the hero section · frosted-glass navbar · scroll-aware text overlays |
-| **Approach** | Built incrementally — UI layer and 3D scene developed and tested as isolated, single-file changes |
+| **Highlights** | Custom 3D workstation model · frosted-glass navbar · scroll-aware text overlays |
 | **Live** | [portfolio-zeta-gules-hjdncubrk0.vercel.app](https://portfolio-zeta-gules-hjdncubrk0.vercel.app/) |
 | **Status** | Active Development |
 
@@ -165,17 +165,89 @@ open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
 </details>
 
 <details>
-<summary><b>➕ Add Your Next Project Here</b></summary>
+<summary><b>🤖 Smart Research Assistant — Spring Boot + Gemini AI</b></summary>
 
 <br/>
 
-> Duplicate this block for any project — ML model, full-stack app, or systems experiment — and fill in the stack, highlights, and status.
+> A Spring Boot backend that acts as an intelligent layer between raw content and Google's Gemini AI — accepting text or code, applying operation-specific prompts, and returning structured, human-readable results.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | ... |
-| **Highlights** | ... |
-| **Status** | ... |
+| **Stack** | Java 17 · Spring Boot · Spring WebFlux (WebClient) · Google Gemini API · Jackson |
+| **Operations** | Summarize · Explain · Fix · Optimize · Generate Unit Tests |
+| **Highlights** | Reactive HTTP via WebClient · operation-driven prompt engineering · clean Controller → Service → Model separation |
+| **Repo** | [Smart-Research-Assistant](https://github.com/ishant212/Smart-Research-Assistant) |
+| **Status** | Complete |
+
+</details>
+
+<details>
+<summary><b>💬 Toxic Comment Classification — GloVe + GRU Deep Learning</b></summary>
+
+<br/>
+
+> A multi-label toxic comment detection system trained on ~383,000 comments, classifying content across 6 toxicity categories with a GloVe embedding + GRU architecture.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Python · TensorFlow/Keras · GloVe · Flask · scikit-learn |
+| **Model** | GloVe (100d, frozen) → GRU (128) → Dropout → Dense → Sigmoid (6 labels) |
+| **Accuracy** | ~98–99% validation accuracy |
+| **Highlights** | Multi-step NLP preprocessing · class imbalance handling · real-time web UI |
+| **Repo** | [Toxic-Comment-Classification](https://github.com/ishant212/Toxic-Comment-Classification) |
+| **Status** | Complete |
+
+</details>
+
+<details>
+<summary><b>🔐 Secure Cloud — AES-GCM Encrypted Cloud Storage</b></summary>
+
+<br/>
+
+> An end-to-end encrypted cloud storage platform where files are encrypted client-side using AES-GCM before upload — Google Drive stores only ciphertext, never plaintext.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | React · FastAPI · Express · Python · PyCryptodome · Google Drive API · OAuth 2.0 |
+| **Encryption** | AES-GCM 256-bit · random nonce generation · integrity verification |
+| **Flow** | Encrypt locally → Upload ciphertext → Retrieve → Decrypt → Restore original file |
+| **Repo** | [Secure_Cloud_Storage](https://github.com/ishant212/Secure_Cloud_Storage) |
+| **Status** | Complete |
+
+</details>
+
+<details>
+<summary><b>📝 NoteFlow — Offline-First React Native Notes App</b></summary>
+
+<br/>
+
+> A minimal, production-feel notes application built entirely offline — no backend, no cloud, no internet required. Notes persist locally with AsyncStorage across restarts.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | React Native · Expo SDK 54 · AsyncStorage · React Navigation |
+| **Features** | Create/edit/delete notes · real-time search · category filtering · toast feedback · keyboard-aware editor |
+| **Highlights** | Offline-first · safe area handling · async save with loading state · clean UX |
+| **APK** | [Download on Expo](https://expo.dev/accounts/ishant212/projects/noteflow/builds/7130e929-0507-41a9-8a01-854b31f797b9) |
+| **Repo** | [NoteFlow](https://github.com/ishant212/noteflow) |
+| **Status** | Complete |
+
+</details>
+
+<details>
+<summary><b>⚡ Closira Backend — AI-Powered Customer Enquiry Pipeline</b></summary>
+
+<br/>
+
+> A FastAPI-based backend workflow system simulating an AI-powered customer enquiry handling pipeline with async SOP matching, automatic escalation, and structured JSON logging.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Python · FastAPI · SQLite · SQLAlchemy · Pydantic · Uvicorn |
+| **Architecture** | Async background tasks · SOP keyword matching · escalation engine · follow-up scheduler |
+| **Highlights** | Modular backend layout · Swagger docs · structured logging · request validation |
+| **Demo** | [Video Demo](https://drive.google.com/file/d/1hfJk7ScjNVgo-DOtO8ohW6uIqtGOVtAK/view?usp=sharing) |
+| **Status** | Complete |
 
 </details>
 
@@ -208,26 +280,9 @@ open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🎯 LeetCode
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ishant212/ishant212/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ishant212/ishant212/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/ishant212/ishant212/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ishant212&theme=tokyonight&no-frame=true&margin-w=8&column=7"/>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ishant_Shekhar?theme=dark)](https://leetcode.com/u/Ishant_Shekhar/)
 
 </div>
 
