@@ -296,11 +296,6 @@ open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
 ```yaml
 # 2026 — Active Priorities
 
-building:
-  - 3D Developer Portfolio: interactive React Three Fiber workstation scene
-  - PayPal-inspired microservices backend: Spring Boot, JWT, Kafka
-  - AI-powered tooling: LLM integration & prompt-engineered pipelines
-
 learning:
   - Generative AI & Large Language Models
   - System Design & distributed backend architecture
