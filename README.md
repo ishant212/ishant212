@@ -277,6 +277,23 @@ open_to     : SDE Internships · AI/ML Engineering · Open Source Collaboration
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X-ImLucky-X/X-ImLucky-X/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X-ImLucky-X/X-ImLucky-X/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/X-ImLucky-X/X-ImLucky-X/output/github-snake-dark.svg" />
+</picture>
+
+<!-- ⚠️ Snake requires the GitHub Actions workflow below to be set up.
+     Create this file in your repo: .github/workflows/snake.yml -->
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🎯 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ishant_Shekhar?theme=dark)](https://leetcode.com/u/Ishant_Shekhar/)
